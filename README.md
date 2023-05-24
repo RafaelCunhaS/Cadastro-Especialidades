@@ -1,4 +1,4 @@
-### Termos e acordos
+# Cadastro Especialidades
 
 Projeto desenvolvido durante a aceleração em Java no curso da Trybe.
 
